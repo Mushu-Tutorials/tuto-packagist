@@ -1,0 +1,21 @@
+{
+  "name": "MushuLeDragon/your-project",
+  "type": "library",
+  "description": "Fist test Packagist update",
+  "keywords": [
+    "tuto",
+    "test",
+    "packagist",
+    "mushuledragon"
+  ],
+  "homepage": "https://yourcompany.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "MushuLeDragon",
+      "email": "test@test.fr",
+      "homepage": "http://test.fr",
+      "role": "Developer"
+    }
+  ]
+}
