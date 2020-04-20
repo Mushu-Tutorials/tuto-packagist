@@ -1,21 +1,26 @@
 {
   "name": "mushuledragon/packagist-test",
   "type": "library",
-  "description": "Fist test Packagist update",
+  "description": "Demo for composer",
   "keywords": [
     "tuto",
     "test",
     "packagist",
     "mushuledragon"
   ],
-  "homepage": "https://yourcompany.com",
+  "homepage": "https://github.com/MushuLeDragon",
   "license": "MIT",
   "authors": [
     {
       "name": "MushuLeDragon",
       "email": "test@test.fr",
-      "homepage": "http://test.fr",
+      "homepage": "https://github.com/MushuLeDragon",
       "role": "Developer"
     }
-  ]
+  ],
+  "autoload": {
+    "psr-4": {
+      "Demo\\Hello\\": "helloworld"
+    }
+  }
 }
