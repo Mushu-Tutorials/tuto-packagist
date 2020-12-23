@@ -1,6 +1,7 @@
-# Tuto Packagist
+# Host packages on Packagist
 
-Tuto to push to [Packagist](https://packagist.org/ "Packagist")
+Tuto to push on [Packagist](https://packagist.org/ "Packagist").
+
 _Inspired from [Kushy Project](https://whoisryosuke.com/blog/2018/how-to-create-a-php-package-for-composer/ "How to create a PHP package for Composer")_
 
 # Dev Part
